@@ -1,0 +1,22 @@
+{
+  "name": "js-web-starter-kit",
+  "version": "1.0.0",
+  "description": "Minimalist JavaScript Web Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdnine/js-web-starter-kit.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Rafael Duarte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdnine/js-web-starter-kit/issues"
+  },
+  "homepage": "https://github.com/rdnine/js-web-starter-kit#readme"
+}

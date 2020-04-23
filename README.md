@@ -1,2 +1,3 @@
-# js-web-starter-kit
-Minimalist JavaScript web kit to kickstart your projects
+# JavaScript Web Starter Kit
+
+**Kickstart your JavaScript projects with this Starter Kit!**
